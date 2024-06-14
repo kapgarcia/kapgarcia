@@ -12,4 +12,4 @@ Meu nome é Karine Pgc
 
 @karine_pgc
 
-![https://tenor.com/pt-BR/view/](butterfly-blue-transparent)-gif-19801810
+!(https://tenor.com/pt-BR/view/)[butterfly-blue-transparent]-gif-19801810
